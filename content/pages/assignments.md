@@ -11,17 +11,165 @@ Course Assignments Overview
 
 Examples of student work are included in the assignments. The student work is courtesy of Joyce Wang, Sarah Shin, Stephanie Hsu, Eulalia Massague, and Phillip Kelleher. All work is used with permission.
 
-| ASSN # | Topics | Files |
-| --- | --- | --- |
-| 1 | Clues and References | ([PDF]({{< baseurl >}}/resources/1-1)) |
-| 2 | Making a Design | ([PDF]({{< baseurl >}}/resources/2-1)) |
-| 3 | North End Quarry Community in the Sky | ([PDF]({{< baseurl >}}/resources/3-1)) |
-| 4 | North End Quarry Community in the Sky | ([PDF]({{< baseurl >}}/resources/4-1)) |
-| 5 | North End Quarry Community in the Sky | ([PDF]({{< baseurl >}}/resources/5-1)) |
-| 6 | Making a Community Place - Clues, Attitude and Program | ([PDF]({{< baseurl >}}/resources/6-1)) |
-| 6a | Making a Community Place | ([PDF]({{< baseurl >}}/resources/6a)) |
-| 7 | First pass at Design | ([PDF]({{< baseurl >}}/resources/7-1)) |
-| 8 | A Building Design | ([PDF]({{< baseurl >}}/resources/8-1)) |
-| 9 | Developing the Design | ([PDF]({{< baseurl >}}/resources/9-1)) |
-| 10 | Detailing a Chunk | ([PDF]({{< baseurl >}}/resources/10-1)) |
-| 11 | Putting it All Together | ([PDF]({{< baseurl >}}/resources/11-1))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSN #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+Files
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Clues and References
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/1-1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Making a Design
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/2-1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+North End Quarry Community in the Sky
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/3-1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+North End Quarry Community in the Sky
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/4-1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+North End Quarry Community in the Sky
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/5-1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Making a Community Place - Clues, Attitude and Program
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/6-1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6a
+{{< tdclose >}}
+{{< tdopen >}}
+Making a Community Place
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/6a))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+First pass at Design
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/7-1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+A Building Design
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/8-1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Developing the Design
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/9-1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Detailing a Chunk
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/10-1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Putting it All Together
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/11-1))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
